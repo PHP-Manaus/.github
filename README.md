@@ -1,1 +1,3 @@
+.github
+
 # Comunidade PHP Manaus
